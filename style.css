@@ -48,8 +48,16 @@ h3 {
     border: 3px solid black;
 }
 
-@media screen and (max-width: 959px) {
+@media screen and (max-width: 980px) {
 .wrapper {
     width: 600px;
 }
+}
+
+@media screen and (max-width: 768px) {
+
+}
+
+@media screen and (max-width: 640px) {
+
 }
